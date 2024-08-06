@@ -1,0 +1,6 @@
+[submodule "3rdparty/gtest"]
+	path = 3rdparty/gtest
+	url = git@github.com:google/googletest.git
+[submodule "3rdparty/geos"]
+	path = 3rdparty/geos
+	url = git@github.com:libgeos/geos.git
